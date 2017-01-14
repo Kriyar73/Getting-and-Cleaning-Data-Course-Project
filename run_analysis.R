@@ -1,3 +1,4 @@
+
 filesPath <- "C:/Users/ADMIN/Documents/data/Dataset/UCI HAR Dataset/"
 setwd(filesPath)
 if(!file.exists("./data")){dir.create("./data")}
